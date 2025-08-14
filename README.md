@@ -37,6 +37,7 @@ Mon objectif à long terme est de contribuer à la création de technologies qui
 Je souhaite également approfondir mes connaissances en **architecture logicielle** et en **microservices** pour devenir un développeur fullstack compétent et polyvalent.
 
 ### 🌍 Retrouver mes projets et me contacter
+ - Portfolio : https://portfoliodek.netlify.app/
 - 📍 **Site Web** : [devcreed.ct.ws](http://devcreed.ct.ws)
 - 🎙️ **YouTube** : [Dek la voix du potentiel]([https://youtube.com](https://www.youtube.com/@dekensr))
 - 📧 **Email** : [ruzubadekens@gmail.com](mailto:votre-ruzubadekens@gmail.com)
