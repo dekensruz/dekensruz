@@ -39,6 +39,6 @@ Je souhaite également approfondir mes connaissances en **architecture logiciell
 ### 🌍 Retrouver mes projets et me contacter
  - Portfolio : https://portfoliodek.netlify.app/
 - 📍 **Site Web** : [devcreed.ct.ws](http://devcreed.ct.ws)
-- 🎙️ **YouTube** : [[Dek](https://www.youtube.com/channel/UCLd4M4E2iVscvx5ImhNWk5g)]([https://youtube.com](https://www.youtube.com/@dekensr))
+- 🎙️ **YouTube** : [[Dek](https://www.youtube.com/channel/UCLd4M4E2iVscvx5ImhNWk5g)(https://www.youtube.com/@dekensr))
 - 📧 **Email** : [ruzubadekens@gmail.com](mailto:votre-ruzubadekens@gmail.com)
 - 💼 **LinkedIn** : [Dekens Ruzuba(https://[www.linkedin.com/in/votre-nom](https://www.linkedin.com/in/dekens-ruzuba-292b7b341))
