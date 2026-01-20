@@ -1,44 +1,47 @@
 # my_bio
-# À propos de moi
+# About me
 
-👨‍💻 **Dekens Ruzuba**, passionné par l'informatique et la technologie depuis mon plus jeune âge, je suis actuellement étudiant en **Sciences Informatiques**, option **Génie Logiciel**, à l'ISIG-Goma.  
-Je suis **développeur Flutter**, curieux et toujours en quête de nouvelles compétences pour créer des applications mobiles utiles et performantes.
+👨‍💻 **Dekens Ruzuba**, passionate about computers and technology since I was very young, I am currently studying **Computer Science**, specializing in **Software Engineering**, at ISIG-Goma.  
+I am a **Flutter developer**, curious and always looking to learn new skills to create useful and powerful mobile applications.
 
-### 🎓 Mon parcours académique et professionnel
-Mon parcours a débuté avec une profonde fascination pour la **programmation** et la **création de solutions logicielles**. En tant qu'étudiant, je mets un point d'honneur à comprendre les bases solides du développement informatique tout en explorant des technologies modernes comme **Flutter**, **Dart** et **Firebase**.
+### 🎓 My academic and professional background
+My journey began with a deep fascination for **programming** and **creating software solutions**. As a student, I make it a point of honor to understand the solid foundations of computer development while exploring modern technologies such as **Flutter**, **Dart**, and **Firebase**.
 
-Au-delà de l’aspect technique, je suis également passionné par le **développement personnel** et la **transmission des connaissances**. C'est dans cet esprit que je suis l'auteur du livre **"Le monde a besoin de toi"**, un ouvrage inspiré de mes expériences personnelles et de mes réflexions sur la quête du sens et de l'épanouissement à travers l'apprentissage continu.
+Beyond the technical aspect, I am also passionate about **personal development** and **knowledge transfer**. It is in this spirit that I am the author of the book **“The World Needs You,”** a work inspired by my personal experiences and reflections on the quest for meaning and fulfillment through continuous learning.
 
-### 💻 Compétences techniques
+### 💻 Technical skills
 
-- **Développement mobile** : Maîtrise de **Flutter** et **Dart** pour le développement d'applications mobiles natives.
-- **Développement web** : HTML, CSS, PHP JavaScript 
-- **Bases de données** : Utilisation de **Firebase, Supabase** pour le backend, ainsi que des bases de données relationnelles comme **SQLite** et **MySQL**.
-- **Outils et pratiques** : Gestion de version avec **Git**, intégration continue avec **GitHub Actions**, utilisation de **Visual Studio Code**, et bonne maîtrise des bonnes pratiques de développement (tests unitaires, sécurité, optimisation des performances).
+- **Mobile development**: Proficiency in **Flutter** and **Dart** for native mobile application development.
+- **Web development**: HTML, CSS, PHP, React, JavaScript
+- **Databases**: Use of **Firebase, Supabase** for backend, as well as relational databases such as **SQLite** and **MySQL**.
+- **Tools and practices**: Version control with **Git**, continuous integration with **GitHub Actions**, use of **Visual Studio Code**, and strong command of best development practices (unit testing, security, performance optimization).
 
-### 🌱 Projets en cours et à venir
+### 🌱 Current and upcoming projects
 
-En ce moment, je développe des applications mobiles avec **Flutter** qui visent à répondre à des besoins réels tout en étant simples, rapides et accessibles. J'ai récemment lancé une **plateforme éducative** appelée [**DevCreed**](http://devcreed.ct.ws), avec mon équipe, pour partager nos connaissances en développement informatique
-Je suis également engagé dans la création de contenus pour ma chaîne **YouTube**, où je partage des leçons inspirées de livres, de films, et de mes propres réflexions sur l'importance de **l'apprentissage continu**.
+I am currently developing mobile applications with **Flutter** that aim to meet real needs while being simple, fast, and accessible. I recently launched an **educational platform** called [**DevCreed**](http://devcreed.ct.ws) with my team to share our knowledge of computer development.
+I am also involved in creating content for my **YouTube** channel, where I share lessons inspired by books, movies, and my own thoughts on the importance of **continuous learning**.
 
-### 📘 Auteur et passionné de lecture
+### 📘 Author and avid reader
 
-L'écriture est une autre de mes passions. J’ai publié **"Le monde a besoin de toi"**, un livre où j'aborde des thèmes de développement personnel, inspirés des enseignements de **Paulo Coelho** et des principes de **résilience**, **d'authenticité** et de **persévérance**. Ce livre est une invitation à chaque individu de découvrir et poursuivre sa **légende personnelle**.
+Writing is another of my passions. I published **“The World Needs You”**, a book in which I address personal development themes inspired by the teachings of **Paulo Coelho** and the principles of **resilience**, **authenticity**, and **perseverance**. This book is an invitation to each individual to discover and pursue their **personal legend**.
 
-### 🎙️ YouTuber et formateur
+### 🎙️ YouTuber and trainer
 
-Je suis également **YouTuber**, où j'anime deux chaînes :
-- **Dek la voix du potentiel** : Une chaîne dédiée au développement personnel et à la motivation, où je partage des leçons inspirantes pour aider les autres à croire en leur potentiel et à le réaliser.
-- **Dek Academy** : Une chaîne dédiée à l'enseignement de l'informatique et de la programmation. Sur cette chaîne, je partage des tutoriels détaillés sur **Excel**, le **développement web** et le **développement mobile**.
+I am also a **YouTuber**, where I host two channels:
+- **Dek la voix du potentiel**: A channel dedicated to personal development and motivation, where I share inspiring lessons to help others believe in their potential and realize it.
+- **Dek Academy**: A channel dedicated to teaching computer science and programming. On this channel, I share detailed tutorials on **Excel**, **web development**, and **mobile development**.
 
-### 🚀 Objectifs et ambitions
+### 🚀 Goals and ambitions
 
-Mon objectif à long terme est de contribuer à la création de technologies qui ont un impact positif sur la vie des gens. Je crois que la technologie peut et doit être utilisée pour résoudre des problèmes réels et améliorer l'efficacité des individus et des entreprises.  
-Je souhaite également approfondir mes connaissances en **architecture logicielle** et en **microservices** pour devenir un développeur fullstack compétent et polyvalent.
+My long-term goal is to contribute to the creation of technologies that have a positive impact on people's lives. I believe that technology can and should be used to solve real problems and improve the efficiency of individuals and businesses.  
+I also want to deepen my knowledge of **software architecture** and **microservices** to become a skilled and versatile full-stack developer.
 
-### 🌍 Retrouver mes projets et me contacter
- - Portfolio : https://portfoliodek.netlify.app/
-- 📍 **Site Web** : [devcreed.ct.ws](http://devcreed.ct.ws)
-- 🎙️ **YouTube** : [Dek](https://www.youtube.com/channel/UCLd4M4E2iVscvx5ImhNWk5g)
-- 📧 **Email** : [ruzubadekens@gmail.com](mailto:votre-ruzubadekens@gmail.com)
-- 💼 **LinkedIn** : [Dekens Ruzuba](https://www.linkedin.com/in/dekens-ruzuba)
+### 🌍 Find my projects and contact me
+- Portfolio: https://portfoliodek.netlify.app/
+- 📍 **Website**: [devcreed.ct.ws](http://devcreed.ct.ws)
+- 🎙️ **YouTube**: [Dek](https://www.youtube.com/channel/UCLd4M4E2iVscvx5ImhNWk5g)
+- 📧 **Email**: [ruzubadekens@gmail.com](mailto:votre-ruzubadekens@gmail.com)
+- 💼 **LinkedIn**: [Dekens Ruzuba](https://www.linkedin.com/in/dekens-ruzuba)
+
+
+Translated with DeepL.com (free version)
