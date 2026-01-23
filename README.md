@@ -7,7 +7,7 @@ I am a **Flutter developer**, curious and always looking to learn new skills to 
 ### 🎓 My academic and professional background
 My journey began with a deep fascination for **programming** and **creating software solutions**. As a student, I make it a point of honor to understand the solid foundations of computer development while exploring modern technologies such as **Flutter**, **Dart**, and **Firebase**.
 
-Beyond the technical aspect, I am also passionate about **personal development** and **knowledge transfer**. It is in this spirit that I am the author of the book **“The World Needs You,”** a work inspired by my personal experiences and reflections on the quest for meaning and fulfillment through continuous learning.
+Beyond the technical aspect, I am also passionate about **personal development** and **knowledge transfer**. It is in this spirit that I am the author of the book **“Le monde a besoin de toi,”** a work inspired by my personal experiences and reflections on the quest for meaning and fulfillment through continuous learning.
 
 ### 💻 Technical skills
 
