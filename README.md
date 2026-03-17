@@ -1,47 +1,59 @@
-# my_bio
-# About me
+<div align="center">
 
-👨‍💻 **Dekens Ruzuba**, passionate about computers and technology since I was very young, I am currently studying **Computer Science**, specializing in **Software Engineering**, at ISIG-Goma.  
-I am a **Flutter developer**, curious and always looking to learn new skills to create useful and powerful mobile applications.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Dekens+Ruzuba+👋;Flutter+%2B+Web+Developer;Author+%26+Content+Creator;Software+Engineering+Student" alt="Typing SVG" />
+</a>
 
-### 🎓 My academic and professional background
-My journey began with a deep fascination for **programming** and **creating software solutions**. As a student, I make it a point of honor to understand the solid foundations of computer development while exploring modern technologies such as **Flutter**, **Dart**, and **Firebase**.
+<p align="center">
+  <b>Passionate about technology | Author of "The World Needs You" | Edutainment Creator</b>
+</p>
 
-Beyond the technical aspect, I am also passionate about **personal development** and **knowledge transfer**. It is in this spirit that I am the author of the book **“Le monde a besoin de toi,”** a work inspired by my personal experiences and reflections on the quest for meaning and fulfillment through continuous learning.
+<p align="center">
+  <a href="https://portfoliodek.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/dekens-ruzuba"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/channel/UCLd4M4E2iVscvx5ImhNWk5g"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:ruzubadekens@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-### 💻 Technical skills
+</div>
 
-- **Mobile development**: Proficiency in **Flutter** and **Dart** for native mobile application development.
-- **Web development**: HTML, CSS, PHP, React, JavaScript
-- **Databases**: Use of **Firebase, Supabase** for backend, as well as relational databases such as **SQLite** and **MySQL**.
-- **Tools and practices**: Version control with **Git**, continuous integration with **GitHub Actions**, use of **Visual Studio Code**, and strong command of best development practices (unit testing, security, performance optimization).
+---
 
-### 🌱 Current and upcoming projects
+### 👨‍💻 About Me
 
-I am currently developing mobile applications with **Flutter** that aim to meet real needs while being simple, fast, and accessible. I recently launched an **educational platform** called [**DevCreed**](http://devcreed.ct.ws) with my team to share our knowledge of computer development.
-I am also involved in creating content for my **YouTube** channel, where I share lessons inspired by books, movies, and my own thoughts on the importance of **continuous learning**.
+My journey began with a deep fascination for programming and software solutions. Today, I am studying **Computer Science (Software Engineering)** at ISIG-Goma, combining solid foundational knowledge with modern technologies to build fast, simple, and accessible applications.
 
-### 📘 Author and avid reader
+- 🎓 **Currently studying:** Software Engineering at ISIG-Goma.
+- 🚀 **Building:** [**DevCreed**](http://devcreed.ct.ws), an educational platform, alongside various mobile apps.
+- 🌱 **Currently learning:** Software Architecture and Microservices to become a versatile Full-Stack developer.
+- 📘 **Author:** Wrote *"The World Needs You"*, a book on resilience, authenticity, and finding your personal legend.
+- 🎙️ **Content Creator:** Running two YouTube channels: **Dek la voix du potentiel** (Motivation) & **Dek Academy** (Tech Tutorials).
 
-Writing is another of my passions. I published **“The World Needs You”**, a book in which I address personal development themes inspired by the teachings of **Paulo Coelho** and the principles of **resilience**, **authenticity**, and **perseverance**. This book is an invitation to each individual to discover and pursue their **personal legend**.
+---
 
-### 🎙️ YouTuber and trainer
+### 💻 Tech Stack & Tools
 
-I am also a **YouTuber**, where I host two channels:
-- **Dek la voix du potentiel**: A channel dedicated to personal development and motivation, where I share inspiring lessons to help others believe in their potential and realize it.
-- **Dek Academy**: A channel dedicated to teaching computer science and programming. On this channel, I share detailed tutorials on **Excel**, **web development**, and **mobile development**.
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,react,js,html,css,php,mysql,sqlite,git,github,vscode" alt="My Skills" />
+  </a>
+</div>
 
-### 🚀 Goals and ambitions
+---
 
-My long-term goal is to contribute to the creation of technologies that have a positive impact on people's lives. I believe that technology can and should be used to solve real problems and improve the efficiency of individuals and businesses.  
-I also want to deepen my knowledge of **software architecture** and **microservices** to become a skilled and versatile full-stack developer.
+### 📊 GitHub Activity
 
-### 🌍 Find my projects and contact me
-- Portfolio: https://portfoliodek.netlify.app/
-- 📍 **Website**: [devcreed.ct.ws](http://devcreed.ct.ws)
-- 🎙️ **YouTube**: [Dek](https://www.youtube.com/channel/UCLd4M4E2iVscvx5ImhNWk5g)
-- 📧 **Email**: [ruzubadekens@gmail.com](mailto:votre-ruzubadekens@gmail.com)
-- 💼 **LinkedIn**: [Dekens Ruzuba](https://www.linkedin.com/in/dekens-ruzuba)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME_ICI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME_ICI&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME_ICI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+</div>
 
-Translated with DeepL.com (free version)
+---
+
+<div align="center">
+  <i>"Technology can and should be used to solve real problems and improve the efficiency of individuals and businesses."</i>
+</div>
