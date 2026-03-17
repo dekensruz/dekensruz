@@ -44,12 +44,12 @@ My journey began with a deep fascination for programming and software solutions.
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME_ICI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TON_USERNAME_ICI&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dekensruz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dekensruz&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME_ICI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekensruz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </div>
 
 ---
