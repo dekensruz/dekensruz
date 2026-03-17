@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Dekens+Ruzuba+👋;Flutter+%2B+Web+Developer;Author+%26+Content+Creator;Software+Engineering+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Dekens+Ruzuba;Flutter+and+Web+Developer;AI+Agents+Creator;Author+and+Content+Creator;Software+Engineering+Student" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <b>Passionate about technology | Author of "The World Needs You" | Edutainment Creator</b>
+  <b>Passionate about technology | Author of "Le monde a besoin de toi" | Edutainment Creator</b>
 </p>
 
 <p align="center">
@@ -19,19 +19,20 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 My journey began with a deep fascination for programming and software solutions. Today, I am studying **Computer Science (Software Engineering)** at ISIG-Goma, combining solid foundational knowledge with modern technologies to build fast, simple, and accessible applications.
 
-- 🎓 **Currently studying:** Software Engineering at ISIG-Goma.
-- 🚀 **Building:** [**DevCreed**](http://devcreed.ct.ws), an educational platform, alongside various mobile apps.
-- 🌱 **Currently learning:** Software Architecture and Microservices to become a versatile Full-Stack developer.
-- 📘 **Author:** Wrote *"The World Needs You"*, a book on resilience, authenticity, and finding your personal legend.
-- 🎙️ **Content Creator:** Running two YouTube channels: **Dek la voix du potentiel** (Motivation) & **Dek Academy** (Tech Tutorials).
+- **Focus:** Specialized in mobile development and AI Agent workflows.
+- **Academic Path:** Currently studying Software Engineering at ISIG-Goma.
+- **Platforms:** Building **DevCreed**, an educational platform for developers.
+- **AI Automation:** Designing automated conversational agents and intelligent workflows.
+- **Publications:** Author of **"Le monde a besoin de toi"**, a book on resilience and continuous learning.
+- **Content:** Producing technical and motivational content on **Dek Academy** and **Dek la voix du potentiel**.
 
 ---
 
-### 💻 Tech Stack & Tools
+### Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -41,7 +42,7 @@ My journey began with a deep fascination for programming and software solutions.
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dekensruz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
