@@ -5,7 +5,7 @@
 </a>
 
 <p align="center">
-  <b>Passionate about technology | Author of "The World Needs You" | Edutainment Creator</b>
+  <b>Passionate about technology | Author of "Le monde a besoin de toi" | Edutainment Creator</b>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ My journey began with a deep fascination for programming and software solutions.
 - **Academic Path:** Currently studying Software Engineering at ISIG-Goma.
 - **Platforms:** Building **DevCreed**, an educational platform for developers.
 - **AI Automation:** Designing automated conversational agents and intelligent workflows.
-- **Publications:** Author of **"The World Needs You"**, a book on resilience and continuous learning.
+- **Publications:** Author of **"Le monde a besoin de toi"**, a book on resilience and continuous learning.
 - **Content:** Producing technical and motivational content on **Dek Academy** and **Dek la voix du potentiel**.
 
 ---
