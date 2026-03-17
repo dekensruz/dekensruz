@@ -5,7 +5,7 @@
 </a>
 
 <p align="center">
-  <b>Passionate about technology | Author of "Le monde a besoin de toi" | Edutainment Creator</b>
+  <b>Passionate about technology | Author of "The World Needs You" | Edutainment Creator</b>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@ My journey began with a deep fascination for programming and software solutions.
 - **Academic Path:** Currently studying Software Engineering at ISIG-Goma.
 - **Platforms:** Building **DevCreed**, an educational platform for developers.
 - **AI Automation:** Designing automated conversational agents and intelligent workflows.
-- **Publications:** Author of **"Le monde a besoin de toi"**, a book on resilience and continuous learning.
+- **Publications:** Author of **"The World Needs You"**, a book on resilience and continuous learning.
 - **Content:** Producing technical and motivational content on **Dek Academy** and **Dek la voix du potentiel**.
 
 ---
@@ -45,12 +45,12 @@ My journey began with a deep fascination for programming and software solutions.
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dekensruz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dekensruz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=c%2B%2B" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dekensruz&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekensruz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekensruz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=c%2B%2B" height="165" alt="Top Languages" />
 </div>
 
 ---
