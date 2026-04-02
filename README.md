@@ -5,7 +5,7 @@
 </a>
 
 <p align="center">
-  <b>Passionate about technology | Author of "Le monde a besoin de toi" | Edutainment Creator</b>
+  <b>Passionate about technology | Author of "Le monde a besoin de toi" | Content Creator</b>
 </p>
 
 <p align="center">
