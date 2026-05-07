@@ -42,7 +42,6 @@ My journey began with a deep fascination for programming and software solutions.
 
 ---
 
-### GitHub Activity
 
 <!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dekensruz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=c%2B%2B" height="165" alt="GitHub Stats" />
