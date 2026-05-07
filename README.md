@@ -44,7 +44,7 @@ My journey began with a deep fascination for programming and software solutions.
 
 ### GitHub Activity
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dekensruz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=c%2B%2B" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dekensruz&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
 </div>
@@ -53,7 +53,7 @@ My journey began with a deep fascination for programming and software solutions.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekensruz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=c%2B%2B" height="165" alt="Top Languages" />
 </div>
 
----
+--- -->
 
 <div align="center">
   <i>"Technology can and should be used to solve real problems and improve the efficiency of individuals and businesses."</i>
